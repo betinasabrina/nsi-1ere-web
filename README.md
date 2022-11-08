@@ -8,7 +8,7 @@
 [Le lien du cours original](https://github.com/xblanc33/nsi-1ere-web.git)
 
 La figure suivante illustre les deux points du programme.
-On voit
+
 (1) les interactions entre l'utilisateur et le navigateur web
 
 (2) les interactions entre le navigateur web et le serveur web
