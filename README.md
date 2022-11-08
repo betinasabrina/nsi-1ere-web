@@ -15,6 +15,8 @@ La figure suivante illustre les deux points du programme.
 
 Le cas particulier des formulaires web permet de montrer les interactions de bout en bout.
 
+
+
 ![Interactions dans le web](./img/interactions.png)
 
 
