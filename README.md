@@ -5,33 +5,21 @@ Programme de 1ère - Interactions entre l’homme et la machine sur le Web
 **Ce cours est une copie(modifiée par mes soins pour mes élèves de 1ère NSI) du cours proposé par PR Xavier Blanc Université de Bordeaux** 
 [Le lien du cours original](https://github.com/xblanc33/nsi-1ere-web.git)
 
-Je vous conseille de cloner ce dépot pour disposer d'une copie locale (pour se faire vous devez [installer Git](https://git-scm.com/book/fr/v1/D%C3%A9marrage-rapide-Installation-de-Git), puis lancer la commande suivante dans le repertoire où vous vouler copier ce dépot):
-
-    git clone https://github.com/xblanc33/nsi-1ere-web.git
-
-## Analyse du programme
-
-Ma lecture personnelle est que le programme met l'emphase sur deux points :
-1. Les interactions entre l'utilisateur et le navigateur web. Il s'agit de comprendre comment l'utilisateur interagit avec un site web (essentiellement en cliquant sur les éléments du site web) et de savoir comment ces interactions se traduisent dans le code en évennements JavaScript.
-2. Les interactions entre le navigateur web et le serveur web. Il s'agit de comprendre que le navigateur interagit avec le serveur web grâce au protocole HTTP. Il émet des requêtes et recoit des réponses. L'objectif est de savoir comment coder l'emission et la reception de ces messages, du côté du serveur comme du côté du client.
-
-Enfin le programme apporte une importance particulière aux formulaires web. Ceux-ci permettent à l'utlisateur de saisir des informations qui seront véhiculées jusqu'au serveur. Le seveur pourra alors effectuer des traitements paramétrés par ces informations.
-
-
-La figure suivante illustre les deux points du programme. On voit (1) les interactions entre l'utilisateur et le navigateur web et (2) les interactions entre le navigateur web et le serveur web.
+La figure suivante illustre les deux points du programme.
+On voit (1) les interactions entre l'utilisateur et le navigateur web et (2) les interactions entre le navigateur web et le serveur web.
 Le cas particulier des formulaires web permet de montrer les interactions de bout en bout.
 
 ![Interactions dans le web](./img/interactions.png)
 
 
-## Séquence pédagogique
+## Séquences pédagogiques
 
-Pour couvrir le programme voici la séquence que je propose: 
+Pour couvrir le programme voici l'organisataion des séquences: 
 
-1. [Fonctionnement d'un site web de bout en bout](./1-E2E/README.md)
-2. [HTML ou comment structurer l'information contenue dans un site web](./2-HTML/README.md)
-3. [Interaction Utilisateur / Navigateur Web, exploitation de JavaScript (DOM et Event)](./3-Navigateur/README.md)
-4. [Interaction Navigateur Web / Serveur Web, comment le client interagit avec le serveur ?](./4-Serveur/README.md)
+1. [IHMWeb1 Fonctionnement d'un site web de bout en bout](./1-E2E/README.md)
+2. [IHMWeb2 HTML ou comment structurer l'information contenue dans un site web](./2-HTML/README.md)
+3. [IHMWeb3 Interaction Utilisateur / Navigateur Web, exploitation de JavaScript (DOM et Event)](./3-Navigateur/README.md)
+4. [IHMWeb4 Interaction Navigateur Web / Serveur Web, comment le client interagit avec le serveur ?](./4-Serveur/README.md)
 
 Pour aller plus loin, on pourra traiter des points suivants:
 * Le style des pages web avec CSS
