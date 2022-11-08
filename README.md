@@ -20,9 +20,9 @@ Le cas particulier des formulaires web permet de montrer les interactions de bou
 ![Interactions dans le web](./img/interactions.png)
 
 
-## Programme du chapitre
+## Programme du chapitre 4 
 
-Pour couvrir le programme voici l'organisataion des séquences: 
+Voici l'organisation des séquences: 
 
 1. [IHMWeb1 Fonctionnement d'un site web de bout en bout](./1-E2E/README.md)
 2. [IHMWeb2 HTML ou comment structurer l'information contenue dans un site web](./2-HTML/README.md)
