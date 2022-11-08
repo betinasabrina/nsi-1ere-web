@@ -1,15 +1,16 @@
-# Numérique et Sciences Informatiques (Web)
+                                                                                                                        Numérique et Sciences Informatiques 1ère
 
-<B><font color="violet">Thème 4  Géolocalisation et cartographie</B>
-## Chapitre 4 
 
-Programme de 1ère - Interactions entre l’homme et la machine sur le Web
+## Chapitre 4 Interractions Homme-Machine sur le WEB (IHMWeb)
+
 
 **Ce cours est une copie(modifiée par mes soins pour mes élèves de 1ère NSI) du cours proposé par PR Xavier Blanc Université de Bordeaux** 
 [Le lien du cours original](https://github.com/xblanc33/nsi-1ere-web.git)
 
 La figure suivante illustre les deux points du programme.
-On voit (1) les interactions entre l'utilisateur et le navigateur web et (2) les interactions entre le navigateur web et le serveur web.
+On voit
+(1) les interactions entre l'utilisateur et le navigateur web
+(2) les interactions entre le navigateur web et le serveur web.
 Le cas particulier des formulaires web permet de montrer les interactions de bout en bout.
 
 ![Interactions dans le web](./img/interactions.png)
