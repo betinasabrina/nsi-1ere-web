@@ -1,6 +1,6 @@
 # Numérique et Sciences Informatiques (Web)
 
-<B><h1 align="center"><font color="violet">Thème 4  Géolocalisation et cartographie </h1></B>
+<B><font color="violet">Thème 4  Géolocalisation et cartographie</B>
 ## Chapitre 4 
 
 Programme de 1ère - Interactions entre l’homme et la machine sur le Web
