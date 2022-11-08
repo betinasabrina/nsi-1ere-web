@@ -16,7 +16,7 @@ Le cas particulier des formulaires web permet de montrer les interactions de bou
 
 Pour couvrir le programme voici l'organisataion des séquences: 
 
-1. <p><font color="pink">[IHMWeb1 Fonctionnement d'un site web de bout en bout](./1-E2E/README.md)</p>
+1. [IHMWeb1 Fonctionnement d'un site web de bout en bout](./1-E2E/README.md)
 2. [IHMWeb2 HTML ou comment structurer l'information contenue dans un site web](./2-HTML/README.md)
 3. [IHMWeb3 Interaction Utilisateur / Navigateur Web, exploitation de JavaScript (DOM et Event)](./3-Navigateur/README.md)
 4. [IHMWeb4 Interaction Navigateur Web / Serveur Web, comment le client interagit avec le serveur ?](./4-Serveur/README.md)
