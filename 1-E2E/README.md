@@ -9,6 +9,8 @@ Un utilisateur utilise son navigateur et interagit avec celui-ci. Le navigateur 
   <dd><font color="green">http://link.not.processed</dd>
   
 </dl>
+
+
 **[Exercices](EXERCICES.md)**
 
 ## Au commencement il y a l'URL
