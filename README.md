@@ -2,7 +2,7 @@
 
 Programme de 1ère - Interactions entre l’homme et la machine sur le Web
 
-##Ce cours est une copie du cours proposé par PR Xavier Blanc Université de Bordeaux 
+**Ce cours est une copie du cours proposé par PR Xavier Blanc Université de Bordeaux**
 
 Je vous conseille de cloner ce dépot pour disposer d'une copie locale (pour se faire vous devez [installer Git](https://git-scm.com/book/fr/v1/D%C3%A9marrage-rapide-Installation-de-Git), puis lancer la commande suivante dans le repertoire où vous vouler copier ce dépot):
 
