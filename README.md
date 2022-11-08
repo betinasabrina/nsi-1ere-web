@@ -1,5 +1,8 @@
 # Numérique et Sciences Informatiques (Web)
 
+#<B><h1 align="center"><font color="violet">Thème 4  Géolocalisation et cartographie </h1></B>
+## Chapitre 4 
+
 Programme de 1ère - Interactions entre l’homme et la machine sur le Web
 
 **Ce cours est une copie(modifiée par mes soins pour mes élèves de 1ère NSI) du cours proposé par PR Xavier Blanc Université de Bordeaux** 
@@ -12,7 +15,7 @@ Le cas particulier des formulaires web permet de montrer les interactions de bou
 ![Interactions dans le web](./img/interactions.png)
 
 
-## Séquences pédagogiques
+## Programme du chapitre
 
 Pour couvrir le programme voici l'organisataion des séquences: 
 
