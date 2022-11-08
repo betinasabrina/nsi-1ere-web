@@ -3,7 +3,11 @@
 L'objectif est ici de montrer qu'un site web est constitué de plusieurs ressources : pages HTML, feuilles de style CSS, scripts JavaScript, images, vidéo, son, etc.
 Ces ressources sont gérées par le serveur web qui les rend accessibles via le protocole HTTP.
 Un utilisateur utilise son navigateur et interagit avec celui-ci. Le navigateur présente (affiche) les ressources à l'utilisateur. Selon les interactions réalisées par l'utilisateur, le navigateur interagit avec le serveur pour accéder à de nouvelles ressources et les afficher.
-
+<dl>
+  <dt>HTML</dt>
+  <dd>http://link.not.processed</dd>
+  <dd>[Link](http://not.processed)</dd>
+</dl>
 **[Exercices](EXERCICES.md)**
 
 ## Au commencement il y a l'URL
