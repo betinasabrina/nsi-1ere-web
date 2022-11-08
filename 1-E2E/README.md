@@ -5,8 +5,9 @@ Ces ressources sont gérées par le serveur web qui les rend accessibles via le 
 Un utilisateur utilise son navigateur et interagit avec celui-ci. Le navigateur présente (affiche) les ressources à l'utilisateur. Selon les interactions réalisées par l'utilisateur, le navigateur interagit avec le serveur pour accéder à de nouvelles ressources et les afficher.
 <dl>
   <dt>HTML</dt>
+  <p><font color="green"> coucouc saby</p>
   
-  <dd><font color="green">http://link.not.processed</dd>
+  <dd>http://link.not.processed</dd>
   
 </dl>
 
