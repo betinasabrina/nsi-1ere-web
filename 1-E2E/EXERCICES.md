@@ -40,7 +40,7 @@ Par exemple avec l'URL suivante:
 
 En utilisant les outils du développeur, vous pouvez vérifier qu'une requête est envoyée pour récupérer l'image (c.f. figuire suivante)
 
-![](./img/imageRequete.PNG)
+![](./img/IHMwebPhoto prof.JPG)
 
 
 ## Ressources HTML
