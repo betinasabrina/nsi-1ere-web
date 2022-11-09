@@ -1,7 +1,7 @@
                                              Numérique et Sciences Informatiques 1ère
 
 
-## Chapitre 4 Interractions Homme-Machine sur le WEB (IHMWeb)
+## Chapitre 4 Interactions Homme-Machine sur le WEB (IHMWeb)
 
 
 **Ce cours est une copie(modifiée par mes soins pour mes élèves de 1ère NSI) du cours proposé par PR Xavier Blanc Université de Bordeaux** 
