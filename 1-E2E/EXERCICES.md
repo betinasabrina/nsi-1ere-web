@@ -35,9 +35,8 @@ Essayez des URL qui ne sont pas conformes et observez ce que dit le navigateur.
 Ouvrez une URL qui pointe vers une ressource non HTML et vérifiez que le navigateur envoie une seule requête pour récupérer la ressource.
 
 Par exemple avec l'URL suivante:
-*https://drive.google.com/file/d/1tUGsLhg0NlqM9GLpQWERikDHcoPwbnkj/view?usp=sharing
 
-* [https://yt3.ggpht.com/-AWNmdyaQ2rU/AAAAAAAAAAI/AAAAAAAAAG0/nHkCiEnSnJQ/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg](https://drive.google.com/file/d/1tUGsLhg0NlqM9GLpQWERikDHcoPwbnkj/view?usp=sharing)
+* [https://yt3.ggpht.com/-AWNmdyaQ2rU/AAAAAAAAAAI/AAAAAAAAAG0/nHkCiEnSnJQ/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg](https://drive.google.com/file/d/1tUGsLhg0NlqM9GLpQWERikDHcoPwbnkj/view?usp=sharing))
   
 
 En utilisant les outils du développeur, vous pouvez vérifier qu'une requête est envoyée pour récupérer l'image (c.f. figure suivante)
