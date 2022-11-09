@@ -39,6 +39,7 @@ Par exemple avec l'URL suivante:
   
 
 En utilisant les outils du développeur, vous pouvez vérifier qu'une requête est envoyée pour récupérer l'image (c.f. figure suivante)
+
 ![](./img/IHMwebPhoto prof.JPG)
 
 
