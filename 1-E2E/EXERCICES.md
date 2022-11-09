@@ -38,9 +38,9 @@ Par exemple avec l'URL suivante:
 * [https://yt3.ggpht.com/-AWNmdyaQ2rU/AAAAAAAAAAI/AAAAAAAAAG0/nHkCiEnSnJQ/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg](https://drive.google.com/file/d/1tUGsLhg0NlqM9GLpQWERikDHcoPwbnkj/view?usp=sharing)
   
 
-En utilisant les outils du développeur, vous pouvez vérifier qu'une requête est envoyée pour récupérer l'image (c.f. figuire suivante)
+En utilisant les outils du développeur, vous pouvez vérifier qu'une requête est envoyée pour récupérer l'image (c.f. figure suivante)
+![](./img/IHMwebPhoto prof.JPG)
 
-![](master/img/interactions.png) (1-E2E/img/IHMwebPhoto prof.JPG)
 
 ## Ressources HTML
 
